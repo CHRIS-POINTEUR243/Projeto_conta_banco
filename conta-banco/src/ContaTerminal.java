@@ -24,6 +24,8 @@ public class ContaTerminal {
 
         // chamada da função para imprimir
         cliente_imprime(numero, agencia, nome,soldo);
+        // foi com sucesso o trabalho
+
 
     }
 }
